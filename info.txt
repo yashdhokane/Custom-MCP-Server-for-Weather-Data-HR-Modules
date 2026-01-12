@@ -1,0 +1,63 @@
+INTERNSHIP 
+Carrer gafis 
+job opening
+
+
+
+temprature api example
+1)https://geocoding-api.open-meteo.com/v1/search?name=Amravati&count=1
+2) latitude and longitude
+https://api.open-meteo.com/v1/forecast?latitude=20.939767094410392&longitude=77.75416668263249&current_weather=true
+3)
+https://careers.gaffis.com/public/api/schedules
+
+output
+[
+  {
+    "id": 945,
+    "schedule_date": "2025-12-11T15:00:00.000000Z",
+    "interview_type": "offline",
+    "employee_id": "3",
+    "job_application_id": "9216",
+    "app_full_name": "AKHILESH ZADE",
+    "app_email": "akhilesh.a.zade@gmail.com",
+    "app_phone": "8329769358",
+    "status": "interview",
+    "created_by": null,
+    "start_link": null,
+    "job_title": "Digital Marketing Expert  (Junior)",
+    "job_application": {
+      "id": 9216,
+      "full_name": "AKHILESH ZADE",
+      "email": "akhilesh.a.zade@gmail.com",
+      "phone": "8329769358",
+      "gender": "male",
+      "dob": null,
+      "country": null,
+      "state": null,
+      "city": null,
+      "photo": null,
+      "rating": null,
+      "skills": null,
+      "skype_id": null,
+      "cover_letter": null,
+      "job_id": "3",
+      "status_id": "3",
+      "column_priority": "0",
+      "created_at": "2025-12-11T05:41:10.000000Z",
+      "updated_at": "2025-12-11T05:46:26.000000Z",
+      "deleted_at": null,
+      "unsubscribed": "",
+      "source": "indeed",
+      "added_by": "1",
+      "error_or_bounced": "no",
+      "is_valid": "yes",
+      "resume_url": "https://careers.gaffis.com/public/user-uploads/documents/9216/527b757da307304ad89abad73d495392.pdf",
+      "photo_url": "https://careers.gaffis.com/public/avatar.png"
+    }
+  }
+
+  4)https://careers.gaffis.com/public/api/jobApplicationList
+
+  output
+  {"id":9238,"full_name":"Alekhya Turlapati","email":"alekhyaturlapati1@gmail.com","phone":"9533872915","gender":"female","created_at":"2025-12-17T05:58:36.000000Z","status":"applied","job_title":"Digital Marketing Expert  (Junior)","resume_url":"https:\/\/careers.gaffis.com\/public\/user-uploads\/documents\/9238\/8b1a33ab0edb0309ffba2ff092356dba.pdf","photo_url":"https:\/\/careers.gaffis.com\/public\/avatar.png"},
